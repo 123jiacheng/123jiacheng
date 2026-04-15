@@ -1,6 +1,13 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2F81F7&vCenter=true&width=600&lines=Hello%2C+Welcome+%21" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&vCenter=true&width=700&lines=Hello%2C+Welcome+!;I'm+Jiacheng" alt="Typing SVG" />
 
-# Hi, I'm Jiacheng 👋
+---
+
+# Hi!, I'm Jiacheng 👋
+
+---
+
+.A beginner who likes to study robot
+.An interesting soul
 
 
 
